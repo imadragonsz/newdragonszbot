@@ -6,3 +6,4 @@ package-lock.json
 package.json
 token.json
 .vscode
+pm2.json
