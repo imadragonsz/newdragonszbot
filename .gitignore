@@ -1,4 +1,4 @@
-
+pm2.json
 node_modules
 config.json
 .env
@@ -6,4 +6,3 @@ package-lock.json
 package.json
 token.json
 .vscode
-pm2.json
